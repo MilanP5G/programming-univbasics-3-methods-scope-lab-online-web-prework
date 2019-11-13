@@ -12,3 +12,6 @@ def link
   share = "It's Dangerous To Go Alone! Take This."
   puts share
 end
+
+def any_phrase(phrase)
+  ap = "Do A Barrel Roll!"
